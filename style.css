@@ -1258,6 +1258,10 @@ header {
   bottom: 15%;
   top: unset;
 }
+.advantages__image{
+  margin-top: 40px;
+  margin-bottom: 55px;
+}
 .advantages__gallery{
   margin-top: 40px;
   display: flex;
@@ -2111,6 +2115,10 @@ footer {
   }
   .advantages__gallery::after, .advantages__gallery::before{
     width: 100px;
+  }
+  .advantages__image{
+    margin-top: 40px;
+    margin-bottom: 55px;
   }
   .advantages__item{
     height: 40px;
