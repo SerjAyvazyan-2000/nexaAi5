@@ -2395,6 +2395,7 @@ footer {
   .advantages__users-mobile{
     grid-column: 1/-1;
     display: flex;
+    max-width: fit-content;
   }
   .advantages__icon{
     width: 80px;
